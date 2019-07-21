@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\f6499a945eaa7a37186733671b1c97fa\AndroidManifest.xml:2:1-11:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\4050d185cb327a1f81d7152e39d726f8\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\e0e5f5d91bdb41fc7a7e1984d25b9cd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\7fa527005b94db361750225e01c8e05f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\621b114d0537ddd850ec1e56af1b2e66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\e3c7de4777d27e28d5eb697c96e29bd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\1e840ff74c16bed37e6f9256b870ce5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\859dd8a3f5ea2fd32ee47dce8ce42f39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\87d2ebd5587e222349ffe018ad014178\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\b672483553a78851c99b95065c941fcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\c4ff34b5da16e32fb2deeea43cd8f04e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\1cb7ccf65e06073b959240b9e5ebb9ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\18fafb2301f94ada5595d2599617360b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\0f4928bb95f38b0b079139695379d501\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\f227f3eee7b722d616e161a98e87cf22\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\b28ca1a9d56987e497fc0bfb37ce24ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\5785f6bceb097c74092d3b0b8e4178f8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\a84cf174a7338a30cf469269fd1f63c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\a2bb9396809cee2404f95d04cff3296f\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:7:9-32
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:13:22-78
+application
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\f6499a945eaa7a37186733671b1c97fa\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\f6499a945eaa7a37186733671b1c97fa\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:19:9-48
+	android:icon
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:21:9-40
+activity#internshala.com.echomusik.activties.SplashActivty
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:22:9-32:20
+	android:screenOrientation
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:23:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:30:27-74
+activity#internshala.com.echomusik.activties.MainActivity
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:screenOrientation
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:34:13-51
+receiver#internshala.com.echomusik.utils.CaptureBroadcast
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:38:19-57
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL+action:name:android.intent.action.PHONE_STATE
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.PHONE_STATE
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:40:25-73
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml:41:25-79
+uses-sdk
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\f6499a945eaa7a37186733671b1c97fa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\f6499a945eaa7a37186733671b1c97fa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\4050d185cb327a1f81d7152e39d726f8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\4050d185cb327a1f81d7152e39d726f8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\e0e5f5d91bdb41fc7a7e1984d25b9cd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\e0e5f5d91bdb41fc7a7e1984d25b9cd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\7fa527005b94db361750225e01c8e05f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\7fa527005b94db361750225e01c8e05f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\621b114d0537ddd850ec1e56af1b2e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\621b114d0537ddd850ec1e56af1b2e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\e3c7de4777d27e28d5eb697c96e29bd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\e3c7de4777d27e28d5eb697c96e29bd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\1e840ff74c16bed37e6f9256b870ce5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\1e840ff74c16bed37e6f9256b870ce5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\859dd8a3f5ea2fd32ee47dce8ce42f39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\859dd8a3f5ea2fd32ee47dce8ce42f39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\87d2ebd5587e222349ffe018ad014178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\87d2ebd5587e222349ffe018ad014178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\b672483553a78851c99b95065c941fcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\b672483553a78851c99b95065c941fcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\c4ff34b5da16e32fb2deeea43cd8f04e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\c4ff34b5da16e32fb2deeea43cd8f04e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\1cb7ccf65e06073b959240b9e5ebb9ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\1cb7ccf65e06073b959240b9e5ebb9ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\18fafb2301f94ada5595d2599617360b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\18fafb2301f94ada5595d2599617360b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\0f4928bb95f38b0b079139695379d501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\0f4928bb95f38b0b079139695379d501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\f227f3eee7b722d616e161a98e87cf22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\f227f3eee7b722d616e161a98e87cf22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\b28ca1a9d56987e497fc0bfb37ce24ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\b28ca1a9d56987e497fc0bfb37ce24ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\5785f6bceb097c74092d3b0b8e4178f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\5785f6bceb097c74092d3b0b8e4178f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\a84cf174a7338a30cf469269fd1f63c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\a84cf174a7338a30cf469269fd1f63c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\a2bb9396809cee2404f95d04cff3296f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SHIVAM\.gradle\caches\transforms-2\files-2.1\a2bb9396809cee2404f95d04cff3296f\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android App Development Training\Assignments\Project\Echo (Internshala Solution)\Echo\app\src\main\AndroidManifest.xml

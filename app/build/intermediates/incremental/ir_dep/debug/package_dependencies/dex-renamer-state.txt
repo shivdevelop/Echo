@@ -1,0 +1,4 @@
+#Sun Jul 21 14:34:51 IST 2019
+base.0=D\:\\Android App Development Training\\Assignments\\Project\\Echo (Internshala Solution)\\Echo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
